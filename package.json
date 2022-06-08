@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "styleguide",
+  "name": "gatsby-starter-styleguide",
   "description": "Instantly create a styleguide page based on your Theme UI configuration. Zero-config — just install the theme and see your Theme UI config displayed in a beautiful manner.",
   "version": "0.2.11",
   "author": "LekoArts <hello@lekoarts.de>",
@@ -9,6 +9,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "git add . && git commit -m Build && git push",
     "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
     "start": "gatsby develop",

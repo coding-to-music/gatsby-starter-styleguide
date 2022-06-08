@@ -1,3 +1,39 @@
+# gatsby-starter-styleguide
+
+# 🚀 Javascript full-stack 🚀
+
+## MERN Stack
+
+### React / Express / MongoDB / TypeScript / Material UI / Coingecko API
+
+https://github.com/coding-to-music/gatsby-starter-styleguide
+
+https://gatsby-starter-styleguide.vercel.app
+
+From / By https://github.com/LekoArts
+
+https://github.com/LekoArts/gatsby-starter-styleguide
+
+https://theme-ui-styleguide.netlify.com/
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/gatsby-starter-styleguide.git
+git push -u origin main
+```
+
 <p align="center">
   <a href="https://styleguide.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />

@@ -9,6 +9,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "vercel": "npm run deploy && vercel --prod",
     "deploy": "git add . && git commit -m Build && git push",
     "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",

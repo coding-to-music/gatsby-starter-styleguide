@@ -4,13 +4,13 @@
 
 https://github.com/coding-to-music/gatsby-starter-styleguide
 
-https://gatsby-starter-styleguide.vercel.app
+https://gatsby-starter-styleguide-omega.vercel.app
 
 From / By https://github.com/LekoArts
 
 https://github.com/LekoArts/gatsby-starter-styleguide
 
-https://theme-ui-styleguide.netlify.com/
+https://theme-ui-styleguide.netlify.com
 
 ## Environment variables:
 
